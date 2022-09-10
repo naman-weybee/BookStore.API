@@ -5,7 +5,6 @@ D:\.NET\Web API Core\WebAPI\ConsoleToWebAPI\ConsoleToWebAPI\bin\Debug\net5.0\Con
 D:\.NET\Web API Core\WebAPI\ConsoleToWebAPI\ConsoleToWebAPI\bin\Debug\net5.0\ConsoleToWebAPI.dll
 D:\.NET\Web API Core\WebAPI\ConsoleToWebAPI\ConsoleToWebAPI\bin\Debug\net5.0\ref\ConsoleToWebAPI.dll
 D:\.NET\Web API Core\WebAPI\ConsoleToWebAPI\ConsoleToWebAPI\bin\Debug\net5.0\ConsoleToWebAPI.pdb
-D:\.NET\Web API Core\WebAPI\ConsoleToWebAPI\ConsoleToWebAPI\obj\Debug\net5.0\ConsoleToWebAPI.csproj.AssemblyReference.cache
 D:\.NET\Web API Core\WebAPI\ConsoleToWebAPI\ConsoleToWebAPI\obj\Debug\net5.0\ConsoleToWebAPI.GeneratedMSBuildEditorConfig.editorconfig
 D:\.NET\Web API Core\WebAPI\ConsoleToWebAPI\ConsoleToWebAPI\obj\Debug\net5.0\ConsoleToWebAPI.AssemblyInfoInputs.cache
 D:\.NET\Web API Core\WebAPI\ConsoleToWebAPI\ConsoleToWebAPI\obj\Debug\net5.0\ConsoleToWebAPI.AssemblyInfo.cs
@@ -19,3 +18,4 @@ D:\.NET\Web API Core\WebAPI\ConsoleToWebAPI\ConsoleToWebAPI\obj\Debug\net5.0\sta
 D:\.NET\Web API Core\WebAPI\ConsoleToWebAPI\ConsoleToWebAPI\obj\Debug\net5.0\staticwebassets\ConsoleToWebAPI.StaticWebAssets.xml
 D:\.NET\Web API Core\WebAPI\ConsoleToWebAPI\ConsoleToWebAPI\obj\Debug\net5.0\scopedcss\bundle\ConsoleToWebAPI.styles.css
 D:\.NET\Web API Core\WebAPI\ConsoleToWebAPI\ConsoleToWebAPI\obj\Debug\net5.0\ConsoleToWebAPI.RazorTargetAssemblyInfo.cache
+D:\.NET\Web API Core\WebAPI\ConsoleToWebAPI\ConsoleToWebAPI\obj\Debug\net5.0\ConsoleToWebAPI.csproj.AssemblyReference.cache
