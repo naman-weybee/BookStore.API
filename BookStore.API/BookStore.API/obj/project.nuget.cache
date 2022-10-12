@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Zo6xrmFCFYhem5K4WQMc8RMEGBnIa2eN141Gf4t3NUps+IzUDvVtuJP/chPLCXQHvOghtI6sgdY+qo4496Qfvw==",
+  "dgSpecHash": "EuS73bhAj6PIgE3/NPVD5V20CmkdzPvoZZ5r+FbQW761MnsXeMcwDe3VkXI7qtvTnNdQ5XIL5JrR9QdZvv9osA==",
   "success": true,
   "projectFilePath": "D:\\.NET\\Web API Core\\WebAPI\\BookStore.API\\BookStore.API\\BookStore.API.csproj",
   "expectedPackageFiles": [
